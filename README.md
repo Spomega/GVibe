@@ -1,1 +1,2 @@
-# GVibe Android,MVP,Dagger2,Rxjava,Retrofit,ButterKnife
+# GVibe social music android app 
+using MVP,Dagger2,Rxjava,Retrofit,ButterKnife
